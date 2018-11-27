@@ -9,7 +9,7 @@ export default function(theme={}) {
     header: {
       flexDirection: 'row',
       justifyContent: 'space-between',
-      paddingLeft: 10,
+      paddingLeft: 15,
       paddingRight: 10,
       alignItems: 'center'
     },
